@@ -1,0 +1,64 @@
+{
+  "color": [
+    {
+      "name": "water_flow_background_color",
+      "value": "#FFAFB0B1"
+    },
+    {
+      "name": "tab_normal_color",
+      "value": "#7F7F7F"
+    },
+    {
+      "name": "tab_select_color",
+      "value": "#0A59F7"
+    },
+    {
+      "name": "common_background_color",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "list_item_card_shadow",
+      "value": "#ffbab3b3"
+    },
+    {
+      "name": "page_background_light",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "page_background_dark",
+      "value": "#1C1C1E"
+    },
+    {
+      "name": "text_color_light",
+      "value": "#000000"
+    },
+    {
+      "name": "text_color_dark",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "card_background_light",
+      "value": "#F5F5F5"
+    },
+    {
+      "name": "card_background_dark",
+      "value": "#2C2C2E"
+    },
+    {
+      "name": "card_text_color_light",
+      "value": "#333333"
+    },
+    {
+      "name": "card_text_color_dark",
+      "value": "#E5E5E5"
+    },
+    {
+      "name": "tabbar_background_light",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "tabbar_background_dark",
+      "value": "#2C2C2E"
+    }
+  ]
+}
